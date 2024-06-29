@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url(./body,html/body,html.css);
+
+@import url(./Header/header.css);
+
+@import url(./main/main.css);
+
+@import url(./footer/footer.css);
+@import url(./Téléphone-responsive/responsive.css);
+
+:root {
+
+    --roboto: "roboto", sans-serif;
+
+    --primary-color: 0, 0, 0;
+    --secondary-color: 255, 255, 255;
+
+    --blue-color: 41, 79, 215;
+    --red-color: 237, 15, 15;
+    --yellow-color: 255, 210, 0;
+    --green-color: 6, 224, 127;
+
+    --headline-font-size: 42px;
+    --headline-font-weight: 700; 
+
+    --subheadline-font-size: 24px;
+    --subheadline-font-weight: 400;
+
+    --body-font-size: 18px;
+}
